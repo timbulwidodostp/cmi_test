@@ -1,4 +1,16 @@
-D 'DEA': Data envelopment analysis
+D 'cmi_test': Implement the conditional moment inequality test proposed by Andrews and Shi (2013) Use cmi_test With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F cmi_i.ado
+F cmi_in.ado
+F cmi_int.ado
+F cmi_inte.ado
+F cmi_inter.ado
+F cmi_interv.ado
+F cmi_interva.ado
+F cmi_interval.ado
+F cmi_interval.sthlp
+F cmi_t.ado
+F cmi_te.ado
+F cmi_tes.ado
+F cmi_test.ado
+F cmi_test.sthlp
