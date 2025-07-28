@@ -3,6 +3,8 @@ Implement the conditional moment inequality test proposed by Andrews and Shi (20
 
 Implement testing and inference methods for conditional moment inequalities/equalities models Use cmi_test With STATA 19
 
+https://www.youtube.com/watch?v=AA5cec_rgNY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
